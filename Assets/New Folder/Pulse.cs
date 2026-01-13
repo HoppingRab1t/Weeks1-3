@@ -1,12 +1,9 @@
 using UnityEngine;
 
-public class LinearInterpelation : MonoBehaviour
+public class Pulse : MonoBehaviour
 {
-    public Transform start;
-    public Transform end;
-    public float t;
     public AnimationCurve curve;
-
+    public float t;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -21,7 +18,9 @@ public class LinearInterpelation : MonoBehaviour
         {
             t = 0;
         }
-        // what ever in t be in between start and end
-        transform.position = Vector2.Lerp(start.position, end.position, curve.Evaluate(t));
+        
+
+        transform.localScale = Vector3.one * curve.Evaluate(t);
+        
     }
 }
