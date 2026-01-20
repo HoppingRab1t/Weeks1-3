@@ -42,7 +42,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
             berrel0.RemoveAt(0);
         } else
         {
-            Debug.Log("nothing to remove");
+            //Debug.Log("nothing to remove");
         }
     }
     void pickARandomColour()
