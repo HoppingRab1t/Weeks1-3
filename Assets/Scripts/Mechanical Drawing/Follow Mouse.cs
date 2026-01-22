@@ -1,10 +1,13 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.InputSystem.Controls;
 
 public class FollowMouse : MonoBehaviour
 {
-    public int interval;
-    public AnimationCurve Movement;
+    public float interval = 0.5f;
+    public float time = 0;
+    public float slopeAmount = 1;
+    //public Vector2 mousePos;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -16,10 +19,19 @@ public class FollowMouse : MonoBehaviour
     {
         Vector2 currentPos = transform.position;
         Vector2 mousePos = Camera.main.ScreenToWorldPoint(Mouse.current.position.ReadValue());
-        currentPos.x += (mousePos.x - currentPos.x) / interval;
-        currentPos.y += (mousePos.y - currentPos.y) / interval;
+        
+        //time += 1 * Time.deltaTime;
+        //float wave = Mathf.Asin(time) * slopeAmount + 1;
 
-        transform.position = currentPos * Time.deltaTime;
+        //currentPos.y -= wave;
+
+        currentPos.x += (mousePos.x - currentPos.x) / interval * Time.deltaTime;
+        currentPos.y += (mousePos.y - currentPos.y) / interval * Time.deltaTime;
+
+        //currentPos.y += wave;
+
+
+        transform.position = currentPos ;
 
     }
 }
