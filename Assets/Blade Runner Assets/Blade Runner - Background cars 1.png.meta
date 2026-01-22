@@ -1,0 +1,2639 @@
+fileFormatVersion: 2
+guid: db4039d1fc12b3e468838e55edceea1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4505627057015040298
+    second: Blade Runner - Background cars 1_0
+  - first:
+      213: -5321025118637821175
+    second: Blade Runner - Background cars 1_1
+  - first:
+      213: 2142844352284715453
+    second: Blade Runner - Background cars 1_2
+  - first:
+      213: -3095016823115236224
+    second: Blade Runner - Background cars 1_3
+  - first:
+      213: -9208541483937081170
+    second: Blade Runner - Background cars 1_4
+  - first:
+      213: 1042908757659068748
+    second: Blade Runner - Background cars 1_5
+  - first:
+      213: 4850033510282723561
+    second: Blade Runner - Background cars 1_6
+  - first:
+      213: -237460649729177944
+    second: Blade Runner - Background cars 1_7
+  - first:
+      213: -8917501012913666160
+    second: Blade Runner - Background cars 1_8
+  - first:
+      213: 7778274438601593176
+    second: Blade Runner - Background cars 1_9
+  - first:
+      213: -7237767125405974607
+    second: Blade Runner - Background cars 1_10
+  - first:
+      213: 7374858156479398906
+    second: Blade Runner - Background cars 1_11
+  - first:
+      213: -3917686942717976529
+    second: Blade Runner - Background cars 1_12
+  - first:
+      213: 4940047106613503709
+    second: Blade Runner - Background cars 1_13
+  - first:
+      213: -8308215776447819081
+    second: Blade Runner - Background cars 1_14
+  - first:
+      213: -3704009739313990637
+    second: Blade Runner - Background cars 1_15
+  - first:
+      213: 8300175098299418637
+    second: Blade Runner - Background cars 1_16
+  - first:
+      213: 7629145278946345733
+    second: Blade Runner - Background cars 1_17
+  - first:
+      213: -4955029563232070236
+    second: Blade Runner - Background cars 1_18
+  - first:
+      213: -2613700873312341598
+    second: Blade Runner - Background cars 1_19
+  - first:
+      213: 7278066810549201200
+    second: Blade Runner - Background cars 1_20
+  - first:
+      213: -1333162903723165927
+    second: Blade Runner - Background cars 1_21
+  - first:
+      213: -3735596000254071923
+    second: Blade Runner - Background cars 1_22
+  - first:
+      213: -1217645123555825293
+    second: Blade Runner - Background cars 1_23
+  - first:
+      213: 7046393887052765543
+    second: Blade Runner - Background cars 1_24
+  - first:
+      213: -2925184659033060780
+    second: Blade Runner - Background cars 1_25
+  - first:
+      213: -1682866897237300265
+    second: Blade Runner - Background cars 1_26
+  - first:
+      213: -3774102262800126820
+    second: Blade Runner - Background cars 1_27
+  - first:
+      213: -6480552834381910401
+    second: Blade Runner - Background cars 1_28
+  - first:
+      213: -2623019841921011523
+    second: Blade Runner - Background cars 1_29
+  - first:
+      213: 6067247365188499274
+    second: Blade Runner - Background cars 1_30
+  - first:
+      213: -4602467207866017250
+    second: Blade Runner - Background cars 1_31
+  - first:
+      213: -1954635000090650358
+    second: Blade Runner - Background cars 1_32
+  - first:
+      213: 8531696258208066472
+    second: Blade Runner - Background cars 1_33
+  - first:
+      213: -1542659034660163356
+    second: Blade Runner - Background cars 1_34
+  - first:
+      213: 3362397996895432377
+    second: Blade Runner - Background cars 1_35
+  - first:
+      213: -1555006633264166587
+    second: Blade Runner - Background cars 1_36
+  - first:
+      213: 7584458043013915206
+    second: Blade Runner - Background cars 1_37
+  - first:
+      213: -111661910450503060
+    second: Blade Runner - Background cars 1_38
+  - first:
+      213: -5545362267312432362
+    second: Blade Runner - Background cars 1_39
+  - first:
+      213: -6600568112638719663
+    second: Blade Runner - Background cars 1_40
+  - first:
+      213: 5431038833048277989
+    second: Blade Runner - Background cars 1_41
+  - first:
+      213: -7047706766199733133
+    second: Blade Runner - Background cars 1_42
+  - first:
+      213: -6008036244978024433
+    second: Blade Runner - Background cars 1_43
+  - first:
+      213: -3112430332347703384
+    second: Blade Runner - Background cars 1_44
+  - first:
+      213: -1149282251809334168
+    second: Blade Runner - Background cars 1_45
+  - first:
+      213: 6565877939602094770
+    second: Blade Runner - Background cars 1_46
+  - first:
+      213: 6709903984772216611
+    second: Blade Runner - Background cars 1_47
+  - first:
+      213: 3800544760559464225
+    second: Blade Runner - Background cars 1_48
+  - first:
+      213: 6843700539343655246
+    second: Blade Runner - Background cars 1_49
+  - first:
+      213: -5514311384336144383
+    second: Blade Runner - Background cars 1_50
+  - first:
+      213: 7435176662337353254
+    second: Blade Runner - Background cars 1_51
+  - first:
+      213: 982317332533815653
+    second: Blade Runner - Background cars 1_52
+  - first:
+      213: 3621045555748706798
+    second: Blade Runner - Background cars 1_53
+  - first:
+      213: 7290571118622322635
+    second: Blade Runner - Background cars 1_54
+  - first:
+      213: -8682476406456865414
+    second: Blade Runner - Background cars 1_55
+  - first:
+      213: 8111798350304713881
+    second: Blade Runner - Background cars 1_56
+  - first:
+      213: 848692029630662299
+    second: Blade Runner - Background cars 1_57
+  - first:
+      213: 6309425035760802081
+    second: Blade Runner - Background cars 1_58
+  - first:
+      213: -3669928936708169172
+    second: Blade Runner - Background cars 1_59
+  - first:
+      213: 3201647937153693088
+    second: Blade Runner - Background cars 1_60
+  - first:
+      213: 2006897904709533433
+    second: Blade Runner - Background cars 1_61
+  - first:
+      213: -6644546380506010860
+    second: Blade Runner - Background cars 1_62
+  - first:
+      213: 5720385602594117777
+    second: Blade Runner - Background cars 1_63
+  - first:
+      213: 4419021816382103733
+    second: Blade Runner - Background cars 1_64
+  - first:
+      213: 5786152501852658607
+    second: Blade Runner - Background cars 1_65
+  - first:
+      213: 8704434340066603581
+    second: Blade Runner - Background cars 1_66
+  - first:
+      213: 4699683790161421224
+    second: Blade Runner - Background cars 1_67
+  - first:
+      213: 3145620729252898175
+    second: Blade Runner - Background cars 1_68
+  - first:
+      213: -1916772107215291676
+    second: Blade Runner - Background cars 1_69
+  - first:
+      213: -3852890851290482500
+    second: Blade Runner - Background cars 1_70
+  - first:
+      213: 4657926428915763288
+    second: Blade Runner - Background cars 1_71
+  - first:
+      213: 4985298500001591534
+    second: Blade Runner - Background cars 1_72
+  - first:
+      213: 1892224075403126763
+    second: Blade Runner - Background cars 1_73
+  - first:
+      213: 6605503189098666890
+    second: Blade Runner - Background cars 1_74
+  - first:
+      213: 8761282518982702107
+    second: Blade Runner - Background cars 1_75
+  - first:
+      213: 446278424366071972
+    second: Blade Runner - Background cars 1_76
+  - first:
+      213: 8417243824175858187
+    second: Blade Runner - Background cars 1_77
+  - first:
+      213: -3097623251747754731
+    second: Blade Runner - Background cars 1_78
+  - first:
+      213: 278425757169514901
+    second: Blade Runner - Background cars 1_79
+  - first:
+      213: -808597792379034037
+    second: Blade Runner - Background cars 1_80
+  - first:
+      213: 8368878048681431553
+    second: Blade Runner - Background cars 1_81
+  - first:
+      213: -199112916002405463
+    second: Blade Runner - Background cars 1_82
+  - first:
+      213: 5494529771661402816
+    second: Blade Runner - Background cars 1_83
+  - first:
+      213: -6816308159451683234
+    second: Blade Runner - Background cars 1_84
+  - first:
+      213: 8670598611005780826
+    second: Blade Runner - Background cars 1_85
+  - first:
+      213: -4657784595668922243
+    second: Blade Runner - Background cars 1_86
+  - first:
+      213: -3132205820570551043
+    second: Blade Runner - Background cars 1_87
+  - first:
+      213: -6284504442318947849
+    second: Blade Runner - Background cars 1_88
+  - first:
+      213: -7452371482010501107
+    second: Blade Runner - Background cars 1_89
+  - first:
+      213: -8124937557679841609
+    second: Blade Runner - Background cars 1_90
+  - first:
+      213: 200762939510228023
+    second: Blade Runner - Background cars 1_91
+  - first:
+      213: 6119992444496600789
+    second: Blade Runner - Background cars 1_92
+  - first:
+      213: 6672385581573939063
+    second: Blade Runner - Background cars 1_93
+  - first:
+      213: -545453614287353975
+    second: Blade Runner - Background cars 1_94
+  - first:
+      213: 842916452264265629
+    second: Blade Runner - Background cars 1_95
+  - first:
+      213: -3819665072187208110
+    second: Blade Runner - Background cars 1_96
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_0
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 781
+        width: 54
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2925cfbfe3378e30800000000000000
+      internalID: 4505627057015040298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_1
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 744
+        width: 74
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90379aab8dbe726b0800000000000000
+      internalID: -5321025118637821175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_2
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 752
+        width: 61
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9e1eac599ecbd10800000000000000
+      internalID: 2142844352284715453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_3
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 753
+        width: 74
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cbb54f89a4c05d0800000000000000
+      internalID: -3095016823115236224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_4
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 728
+        width: 78
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea85b7e2f40b43080800000000000000
+      internalID: -9208541483937081170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_5
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 758
+        width: 54
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49a9615df7297e00800000000000000
+      internalID: 1042908757659068748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_6
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 737
+        width: 68
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e08421f7c7ce4340800000000000000
+      internalID: 4850033510282723561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 742
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a642c41cce54bcf0800000000000000
+      internalID: -237460649729177944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_8
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 738
+        width: 55
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0974811631cae3480800000000000000
+      internalID: -8917501012913666160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_9
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 736
+        width: 71
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851595e046bf1fb60800000000000000
+      internalID: 7778274438601593176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_10
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 733
+        width: 71
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf3d2395294e8b90800000000000000
+      internalID: -7237767125405974607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_11
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 728
+        width: 61
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3c8dd6b62c85660800000000000000
+      internalID: 7374858156479398906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_12
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 730
+        width: 74
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20eb1e7b7491a9c0800000000000000
+      internalID: -3917686942717976529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_13
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 720
+        width: 60
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6e4638ba29e8440800000000000000
+      internalID: 4940047106613503709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_14
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 727
+        width: 73
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2188725c943bc80800000000000000
+      internalID: -8308215776447819081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_15
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 727
+        width: 63
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3143a9b44c6b89cc0800000000000000
+      internalID: -3704009739313990637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_16
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 712
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d080ea39645203370800000000000000
+      internalID: 8300175098299418637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_17
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 714
+        width: 67
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5030273d53b20e960800000000000000
+      internalID: 7629145278946345733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_18
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 718
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a55ef77dd23c3bb0800000000000000
+      internalID: -4955029563232070236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_19
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 721
+        width: 74
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1f61957e44abbd0800000000000000
+      internalID: -2613700873312341598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_20
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 714
+        width: 54
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039685e0433e00560800000000000000
+      internalID: 7278066810549201200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_21
+      rect:
+        serializedVersion: 2
+        x: 3404
+        y: 713
+        width: 71
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9173ad70767af7de0800000000000000
+      internalID: -1333162903723165927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_22
+      rect:
+        serializedVersion: 2
+        x: 3742
+        y: 722
+        width: 61
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b6c74da3f782cc0800000000000000
+      internalID: -3735596000254071923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_23
+      rect:
+        serializedVersion: 2
+        x: 3797
+        y: 727
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379e7f3263e0a1fe0800000000000000
+      internalID: -1217645123555825293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 710
+        width: 64
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769934928e1d9c160800000000000000
+      internalID: 7046393887052765543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_25
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 696
+        width: 56
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a89e70d08a767d0800000000000000
+      internalID: -2925184659033060780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_26
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 708
+        width: 78
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db28e1297145a8e0800000000000000
+      internalID: -1682866897237300265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_27
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 703
+        width: 75
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ceccfecf1bf9bc0800000000000000
+      internalID: -3774102262800126820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_28
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 699
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ee38658837016a0800000000000000
+      internalID: -6480552834381910401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_29
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 704
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db03f73e959299bd0800000000000000
+      internalID: -2623019841921011523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_30
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 697
+        width: 61
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a473c7e3551333450800000000000000
+      internalID: 6067247365188499274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_31
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 704
+        width: 72
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a13c89570c020c0800000000000000
+      internalID: -4602467207866017250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_32
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 704
+        width: 63
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a091d02d2ddbfd4e0800000000000000
+      internalID: -1954635000090650358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_33
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 710
+        width: 72
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab65024b8ca66670800000000000000
+      internalID: 8531696258208066472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_34
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 704
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0b88508cf579ae0800000000000000
+      internalID: -1542659034660163356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_35
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 684
+        width: 193
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9beef66d923a9ae20800000000000000
+      internalID: 3362397996895432377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_36
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 680
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549c9e0b4b18b6ae0800000000000000
+      internalID: -1555006633264166587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_37
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 679
+        width: 68
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642e2bbe768614960800000000000000
+      internalID: 7584458043013915206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_38
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 691
+        width: 64
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6208a4851c437ef0800000000000000
+      internalID: -111661910450503060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_39
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 680
+        width: 93
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bdcf1066aea03b0800000000000000
+      internalID: -5545362267312432362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_40
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 688
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159066ad5421664a0800000000000000
+      internalID: -6600568112638719663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_41
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 686
+        width: 76
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3d1353b0dee5b40800000000000000
+      internalID: 5431038833048277989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_42
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 684
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3744c875904813e90800000000000000
+      internalID: -7047706766199733133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_43
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 669
+        width: 90
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00c96cfdda2f9ca0800000000000000
+      internalID: -6008036244978024433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_44
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 687
+        width: 74
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af93446a1d6ec4d0800000000000000
+      internalID: -3112430332347703384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_45
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 684
+        width: 79
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c5e3291edec00f0800000000000000
+      internalID: -1149282251809334168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_46
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 688
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba7e84d23fae1b50800000000000000
+      internalID: 6565877939602094770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_47
+      rect:
+        serializedVersion: 2
+        x: 3423
+        y: 679
+        width: 75
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3277351af1e5e1d50800000000000000
+      internalID: 6709903984772216611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_48
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 675
+        width: 103
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f6e16d25f3eb430800000000000000
+      internalID: 3800544760559464225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_49
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 665
+        width: 54
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e415abc8165b9fe50800000000000000
+      internalID: 6843700539343655246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_50
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 668
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10860c3130b3973b0800000000000000
+      internalID: -5514311384336144383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_51
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 661
+        width: 64
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62674e8f7cd0f2760800000000000000
+      internalID: 7435176662337353254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_52
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 669
+        width: 91
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569236ec864e1ad00800000000000000
+      internalID: 982317332533815653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_53
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 656
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee998e17fb9804230800000000000000
+      internalID: 3621045555748706798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_54
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 661
+        width: 193
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfa4372ecf4d2560800000000000000
+      internalID: 7290571118622322635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_55
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 673
+        width: 56
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7dad66c5b5a18780800000000000000
+      internalID: -8682476406456865414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_56
+      rect:
+        serializedVersion: 2
+        x: 2973
+        y: 667
+        width: 63
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c13871f95e29070800000000000000
+      internalID: 8111798350304713881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_57
+      rect:
+        serializedVersion: 2
+        x: 3175
+        y: 657
+        width: 94
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9647d587e827cb00800000000000000
+      internalID: 848692029630662299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_58
+      rect:
+        serializedVersion: 2
+        x: 3289
+        y: 664
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1299a7924a49f8750800000000000000
+      internalID: 6309425035760802081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_59
+      rect:
+        serializedVersion: 2
+        x: 3309
+        y: 662
+        width: 82
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c222590831bc11dc0800000000000000
+      internalID: -3669928936708169172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_60
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 646
+        width: 90
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a578e5f5d98e6c20800000000000000
+      internalID: 3201647937153693088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_61
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 649
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9feffa6e20fe9db10800000000000000
+      internalID: 2006897904709533433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_62
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 655
+        width: 59
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41be4507544d9c3a0800000000000000
+      internalID: -6644546380506010860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_63
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 654
+        width: 76
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19891ecc564e26f40800000000000000
+      internalID: 5720385602594117777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_64
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 651
+        width: 61
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b02824dde4835d30800000000000000
+      internalID: 4419021816382103733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_65
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 648
+        width: 84
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab5a294b0b8c4050800000000000000
+      internalID: 5786152501852658607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_66
+      rect:
+        serializedVersion: 2
+        x: 2651
+        y: 658
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32b16a0aec5cc870800000000000000
+      internalID: 8704434340066603581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_67
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 657
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3ab35d181a83140800000000000000
+      internalID: 4699683790161421224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_68
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 645
+        width: 91
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f756935136d77ab20800000000000000
+      internalID: 3145620729252898175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_69
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 656
+        width: 68
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea3e0a8ce14665e0800000000000000
+      internalID: -1916772107215291676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_70
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 661
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb87a7a2f28c78ac0800000000000000
+      internalID: -3852890851290482500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_71
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 642
+        width: 54
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8588d69886744a040800000000000000
+      internalID: 4657926428915763288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_72
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 645
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0f1ef82965f2540800000000000000
+      internalID: 4985298500001591534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_73
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 639
+        width: 95
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be768d965c7824a10800000000000000
+      internalID: 1892224075403126763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_74
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 645
+        width: 72
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b9fec27267bab50800000000000000
+      internalID: 6605503189098666890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_75
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 643
+        width: 58
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14bdc02804569970800000000000000
+      internalID: 8761282518982702107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_76
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 643
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0c24bccdf713600800000000000000
+      internalID: 446278424366071972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_77
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 634
+        width: 89
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b024adf59ae00d470800000000000000
+      internalID: 8417243824175858187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_78
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 642
+        width: 54
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51da59f70180305d0800000000000000
+      internalID: -3097623251747754731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_79
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 645
+        width: 65
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599786040ca2dd300800000000000000
+      internalID: 278425757169514901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_80
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 631
+        width: 59
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46251b879847c4f0800000000000000
+      internalID: -808597792379034037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_81
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 638
+        width: 64
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102983cbe3a342470800000000000000
+      internalID: 8368878048681431553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_82
+      rect:
+        serializedVersion: 2
+        x: 3286
+        y: 631
+        width: 76
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a30c7b9bdb9c3df0800000000000000
+      internalID: -199112916002405463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_83
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 632
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2afaf47bd704c40800000000000000
+      internalID: 5494529771661402816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_84
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 623
+        width: 78
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e562944e7db9761a0800000000000000
+      internalID: -6816308159451683234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_85
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 618
+        width: 54
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53bef67f77245870800000000000000
+      internalID: 8670598611005780826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_86
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 625
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d701ed696993c5fb0800000000000000
+      internalID: -4657784595668922243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_87
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 622
+        width: 56
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc3b7db66b2884d0800000000000000
+      internalID: -3132205820570551043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_88
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 616
+        width: 95
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9f636a184f8c8a0800000000000000
+      internalID: -6284504442318947849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_89
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 621
+        width: 72
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0043881f9bd39890800000000000000
+      internalID: -7452371482010501107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_90
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 620
+        width: 58
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be534cc65c6e3f80800000000000000
+      internalID: -8124937557679841609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_91
+      rect:
+        serializedVersion: 2
+        x: 3161
+        y: 620
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734029d64d049c200800000000000000
+      internalID: 200762939510228023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_92
+      rect:
+        serializedVersion: 2
+        x: 3482
+        y: 626
+        width: 61
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de5b4204b49ee450800000000000000
+      internalID: 6119992444496600789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_93
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 624
+        width: 84
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f172aa553199c50800000000000000
+      internalID: 6672385581573939063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_94
+      rect:
+        serializedVersion: 2
+        x: 3550
+        y: 613
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98703f6e3d82e68f0800000000000000
+      internalID: -545453614287353975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_95
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 611
+        width: 85
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d974b802c04a2bb00800000000000000
+      internalID: 842916452264265629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade Runner - Background cars 1_96
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 599
+        width: 78
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e8053bad2ddfac0800000000000000
+      internalID: -3819665072187208110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Blade Runner - Background cars 1_0: 4505627057015040298
+      Blade Runner - Background cars 1_1: -5321025118637821175
+      Blade Runner - Background cars 1_10: -7237767125405974607
+      Blade Runner - Background cars 1_11: 7374858156479398906
+      Blade Runner - Background cars 1_12: -3917686942717976529
+      Blade Runner - Background cars 1_13: 4940047106613503709
+      Blade Runner - Background cars 1_14: -8308215776447819081
+      Blade Runner - Background cars 1_15: -3704009739313990637
+      Blade Runner - Background cars 1_16: 8300175098299418637
+      Blade Runner - Background cars 1_17: 7629145278946345733
+      Blade Runner - Background cars 1_18: -4955029563232070236
+      Blade Runner - Background cars 1_19: -2613700873312341598
+      Blade Runner - Background cars 1_2: 2142844352284715453
+      Blade Runner - Background cars 1_20: 7278066810549201200
+      Blade Runner - Background cars 1_21: -1333162903723165927
+      Blade Runner - Background cars 1_22: -3735596000254071923
+      Blade Runner - Background cars 1_23: -1217645123555825293
+      Blade Runner - Background cars 1_24: 7046393887052765543
+      Blade Runner - Background cars 1_25: -2925184659033060780
+      Blade Runner - Background cars 1_26: -1682866897237300265
+      Blade Runner - Background cars 1_27: -3774102262800126820
+      Blade Runner - Background cars 1_28: -6480552834381910401
+      Blade Runner - Background cars 1_29: -2623019841921011523
+      Blade Runner - Background cars 1_3: -3095016823115236224
+      Blade Runner - Background cars 1_30: 6067247365188499274
+      Blade Runner - Background cars 1_31: -4602467207866017250
+      Blade Runner - Background cars 1_32: -1954635000090650358
+      Blade Runner - Background cars 1_33: 8531696258208066472
+      Blade Runner - Background cars 1_34: -1542659034660163356
+      Blade Runner - Background cars 1_35: 3362397996895432377
+      Blade Runner - Background cars 1_36: -1555006633264166587
+      Blade Runner - Background cars 1_37: 7584458043013915206
+      Blade Runner - Background cars 1_38: -111661910450503060
+      Blade Runner - Background cars 1_39: -5545362267312432362
+      Blade Runner - Background cars 1_4: -9208541483937081170
+      Blade Runner - Background cars 1_40: -6600568112638719663
+      Blade Runner - Background cars 1_41: 5431038833048277989
+      Blade Runner - Background cars 1_42: -7047706766199733133
+      Blade Runner - Background cars 1_43: -6008036244978024433
+      Blade Runner - Background cars 1_44: -3112430332347703384
+      Blade Runner - Background cars 1_45: -1149282251809334168
+      Blade Runner - Background cars 1_46: 6565877939602094770
+      Blade Runner - Background cars 1_47: 6709903984772216611
+      Blade Runner - Background cars 1_48: 3800544760559464225
+      Blade Runner - Background cars 1_49: 6843700539343655246
+      Blade Runner - Background cars 1_5: 1042908757659068748
+      Blade Runner - Background cars 1_50: -5514311384336144383
+      Blade Runner - Background cars 1_51: 7435176662337353254
+      Blade Runner - Background cars 1_52: 982317332533815653
+      Blade Runner - Background cars 1_53: 3621045555748706798
+      Blade Runner - Background cars 1_54: 7290571118622322635
+      Blade Runner - Background cars 1_55: -8682476406456865414
+      Blade Runner - Background cars 1_56: 8111798350304713881
+      Blade Runner - Background cars 1_57: 848692029630662299
+      Blade Runner - Background cars 1_58: 6309425035760802081
+      Blade Runner - Background cars 1_59: -3669928936708169172
+      Blade Runner - Background cars 1_6: 4850033510282723561
+      Blade Runner - Background cars 1_60: 3201647937153693088
+      Blade Runner - Background cars 1_61: 2006897904709533433
+      Blade Runner - Background cars 1_62: -6644546380506010860
+      Blade Runner - Background cars 1_63: 5720385602594117777
+      Blade Runner - Background cars 1_64: 4419021816382103733
+      Blade Runner - Background cars 1_65: 5786152501852658607
+      Blade Runner - Background cars 1_66: 8704434340066603581
+      Blade Runner - Background cars 1_67: 4699683790161421224
+      Blade Runner - Background cars 1_68: 3145620729252898175
+      Blade Runner - Background cars 1_69: -1916772107215291676
+      Blade Runner - Background cars 1_7: -237460649729177944
+      Blade Runner - Background cars 1_70: -3852890851290482500
+      Blade Runner - Background cars 1_71: 4657926428915763288
+      Blade Runner - Background cars 1_72: 4985298500001591534
+      Blade Runner - Background cars 1_73: 1892224075403126763
+      Blade Runner - Background cars 1_74: 6605503189098666890
+      Blade Runner - Background cars 1_75: 8761282518982702107
+      Blade Runner - Background cars 1_76: 446278424366071972
+      Blade Runner - Background cars 1_77: 8417243824175858187
+      Blade Runner - Background cars 1_78: -3097623251747754731
+      Blade Runner - Background cars 1_79: 278425757169514901
+      Blade Runner - Background cars 1_8: -8917501012913666160
+      Blade Runner - Background cars 1_80: -808597792379034037
+      Blade Runner - Background cars 1_81: 8368878048681431553
+      Blade Runner - Background cars 1_82: -199112916002405463
+      Blade Runner - Background cars 1_83: 5494529771661402816
+      Blade Runner - Background cars 1_84: -6816308159451683234
+      Blade Runner - Background cars 1_85: 8670598611005780826
+      Blade Runner - Background cars 1_86: -4657784595668922243
+      Blade Runner - Background cars 1_87: -3132205820570551043
+      Blade Runner - Background cars 1_88: -6284504442318947849
+      Blade Runner - Background cars 1_89: -7452371482010501107
+      Blade Runner - Background cars 1_9: 7778274438601593176
+      Blade Runner - Background cars 1_90: -8124937557679841609
+      Blade Runner - Background cars 1_91: 200762939510228023
+      Blade Runner - Background cars 1_92: 6119992444496600789
+      Blade Runner - Background cars 1_93: 6672385581573939063
+      Blade Runner - Background cars 1_94: -545453614287353975
+      Blade Runner - Background cars 1_95: 842916452264265629
+      Blade Runner - Background cars 1_96: -3819665072187208110
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
