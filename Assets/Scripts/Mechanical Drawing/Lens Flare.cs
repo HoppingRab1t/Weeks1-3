@@ -6,11 +6,11 @@ public class LensFlare : MonoBehaviour
 {
     
     public AnimationCurve curve;
-    float time = Random.Range(1,10);
+    float time = 0;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+        time = Random.Range(1, 10);
     }
 
     // Update is called once per frame
