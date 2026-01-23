@@ -1589,6 +1589,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1381948685}
   - component: {fileID: 1381948686}
+  - component: {fileID: 1381948687}
   m_Layer: 0
   m_Name: Background Cars 2
   m_TagString: Untagged
@@ -1668,6 +1669,22 @@ SpriteRenderer:
   m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1381948687
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1381948684}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bed9891449c08cf44a255791c8573383, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pos: {x: 0, y: 0}
+  pos1: {x: 0, y: 0}
+  speed: 0.5
+  direction: 1
 --- !u!1 &1497823663
 GameObject:
   m_ObjectHideFlags: 0
@@ -1950,12 +1967,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dad0d2f22273d784b8c1ca6a00c33c1c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  curve:
-    serializedVersion: 2
-    m_Curve: []
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
   multi: 1
   amp: 0.04
 --- !u!1 &1546514799
@@ -2046,6 +2057,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1566634685}
   - component: {fileID: 1566634686}
+  - component: {fileID: 1566634687}
   m_Layer: 0
   m_Name: Background Cars 1
   m_TagString: Untagged
@@ -2125,6 +2137,22 @@ SpriteRenderer:
   m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1566634687
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1566634684}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bed9891449c08cf44a255791c8573383, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pos: {x: 0, y: 0}
+  pos1: {x: 0, y: 0}
+  speed: 1
+  direction: -1
 --- !u!1 &1601661476
 GameObject:
   m_ObjectHideFlags: 0
@@ -2345,39 +2373,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dad0d2f22273d784b8c1ca6a00c33c1c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  curve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0.0021514893
-      inSlope: 1.9649843
-      outSlope: 1.9649843
-      tangentMode: 34
-      weightedMode: 0
-      inWeight: 0
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 0.4988641
-      value: 0.9824116
-      inSlope: -0.0027789474
-      outSlope: -0.0027789474
-      tangentMode: 34
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 0.9987354
-      value: -0.0026059304
-      inSlope: -1.9705422
-      outSlope: -1.9705422
-      tangentMode: 34
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
   multi: 1
   amp: 0.01
 --- !u!1 &1834365084
@@ -2513,39 +2508,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dad0d2f22273d784b8c1ca6a00c33c1c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  curve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0.0021514893
-      inSlope: 1.9649843
-      outSlope: 1.9649843
-      tangentMode: 34
-      weightedMode: 0
-      inWeight: 0
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 0.4988641
-      value: 0.9824116
-      inSlope: -0.0027789474
-      outSlope: -0.0027789474
-      tangentMode: 34
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 0.9987354
-      value: -0.0026059304
-      inSlope: -1.9705422
-      outSlope: -1.9705422
-      tangentMode: 34
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
   multi: 1
   amp: 0.01
 --- !u!1 &1936351320
@@ -2594,39 +2556,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dad0d2f22273d784b8c1ca6a00c33c1c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  curve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0.0021514893
-      inSlope: 1.9649843
-      outSlope: 1.9649843
-      tangentMode: 34
-      weightedMode: 0
-      inWeight: 0
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 0.4988641
-      value: 0.9824116
-      inSlope: -0.0027789474
-      outSlope: -0.0027789474
-      tangentMode: 34
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 0.9987354
-      value: -0.0026059304
-      inSlope: -1.9705422
-      outSlope: -1.9705422
-      tangentMode: 34
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
   multi: 1
   amp: 0.01
 --- !u!1 &2012113555

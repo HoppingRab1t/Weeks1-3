@@ -19,17 +19,13 @@ public class FollowMouse : MonoBehaviour
         Vector2 currentPos = transform.position;
         Vector2 mousePos = Camera.main.ScreenToWorldPoint(Mouse.current.position.ReadValue());
         
-        //time += 1 * Time.deltaTime;
-        //float wave = Mathf.Asin(time) * slopeAmount + 1;
-
-        //currentPos.y -= wave;
-
+        //this is where the function changes the variable 
+        //this makes the flying car to slowly approach the mouse.
         currentPos.x += (mousePos.x - currentPos.x) / interval * Time.deltaTime;
         currentPos.y += (mousePos.y - currentPos.y) / interval * Time.deltaTime;
 
-        //currentPos.y += wave;
 
-
+        //set the positon
         transform.position = currentPos ;
 
     }

@@ -19,12 +19,8 @@ public class Passivefloatingeffect : MonoBehaviour
     {
         time += 1 * Time.deltaTime;
 
-        //if (time > 4)
-        //{
-        //    time = -4;
-        //}
 
-        //does the sine wave 
+        //does the sine wave (I don't think I could use animation curve effectivly since it sets the variable and to prevent it I must associate it to another variable, but I might as well do a sine wave and demonstrate mathf.sin)
         Vector2 pos = transform.position;
         multi = Mathf.Sin(time)*amp;
         pos.y += multi;

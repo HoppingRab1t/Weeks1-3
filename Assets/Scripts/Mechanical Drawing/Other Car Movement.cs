@@ -12,6 +12,9 @@ public class OtherCarMovement : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        //adds a random delay so the cars won't move at the same time
+        delay = Random.Range(1, 11);
+
         //sets the random positon at the start
         start.x = Random.Range(-15f, 15f);
         end.x = Random.Range(-15f, 15f);
