@@ -5,7 +5,6 @@ using UnityEngine.InputSystem.Controls;
 public class FollowMouse : MonoBehaviour
 {
     public float interval = 0.5f;
-    public float time = 0;
     public float slopeAmount = 1;
     //public Vector2 mousePos;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
