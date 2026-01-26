@@ -7,6 +7,7 @@ using UnityEngine.InputSystem;
 public class TankSpawner : MonoBehaviour
 {
     public GameObject tankPrefab;
+    public GameObject DuckiePrefab;
     public int howMnayTanks = 0;
 
     public GameObject spawnedTank;
@@ -48,13 +49,27 @@ public class TankSpawner : MonoBehaviour
                 tankScript.movement = howMnayTanks;
 
             }
+
+            Instantiate(DuckiePrefab, Random.insideUnitCircle * 3, Quaternion.identity);
+        }
+        if (Mouse.current.rightButton.wasPressedThisFrame)
+        {
+            tanks.Remove(spawnedTank);
+            Destroy(spawnedTank);
         }
         for (int i = 0; i < tanks.Count; i++)
         {
             float distance = Vector2.Distance(tanks[i].transform.position, barrel.position); 
             if (distance < 0.5f)
             {
+                //finds the tank that touched it
+                GameObject tank = tanks[i];
                 Debug.Log("tank " + i + " expoded");
+
+                //destory
+                tanks.Remove(tank);
+
+                Destroy(tank);
             }
         }
 
