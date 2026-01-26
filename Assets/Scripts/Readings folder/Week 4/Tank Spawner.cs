@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using System.Security.Principal;
 using Unity.VisualScripting;
 using UnityEngine;
@@ -11,6 +12,10 @@ public class TankSpawner : MonoBehaviour
     public GameObject spawnedTank;
 
     public FirstScript tankScript;
+
+
+    public List<GameObject> tanks;
+    public Transform barrel;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -33,10 +38,27 @@ public class TankSpawner : MonoBehaviour
             howMnayTanks += 1;
 
             //changing the values in the script.
-            tankScript.movement = howMnayTanks;
+            tankScript.body.color = Random.ColorHSV();
+
+            tanks.Add(spawnedTank);
+
+            for (int i = 0; i <tanks.Count; i++)
+            {
+                FirstScript ts = tanks[i].GetComponent<FirstScript>();    
+                tankScript.movement = howMnayTanks;
+
+            }
+        }
+        for (int i = 0; i < tanks.Count; i++)
+        {
+            float distance = Vector2.Distance(tanks[i].transform.position, barrel.position); 
+            if (distance < 0.5f)
+            {
+                Debug.Log("tank " + i + " expoded");
+            }
         }
 
-
+        
 
         //if (Mouse.current.leftButton.wasPressedThisFrame)
         //{

@@ -3,7 +3,7 @@ using UnityEngine;
 public class FirstScript : MonoBehaviour
 {
     public float movement = 10f;
-
+    public SpriteRenderer body;
     Vector2 bottomLeft;
     Vector2 topRight;
 
