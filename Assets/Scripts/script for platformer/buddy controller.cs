@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class buddycontroller : MonoBehaviour
 {
-    [SerializeField] private Rigidbody2D rigidbody;
+    [SerializeField] private Rigidbody2D rigidbodys;
     public Animator animator;
     public SpriteRenderer spriteRenderer;
 
@@ -18,7 +18,7 @@ public class buddycontroller : MonoBehaviour
     public LayerMask groundCheckLayerMask;
     void Start()
     {
-        rigidbody = GetComponent<Rigidbody2D>();
+        rigidbodys = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
     }
@@ -44,10 +44,11 @@ public class buddycontroller : MonoBehaviour
         }
         if (animator)
         {
-            animator.SetFloat("moveX",Mathf.Abs(rigidbody.linearVelocityX));
+            animator.SetFloat("moveX",Mathf.Abs(rigidbodys.linearVelocityX));
             animator.SetBool("isJumping",!isGrounded );
         }
         RaycastHit2D hit = Physics2D.Raycast(groundCheckPos.position, Vector2.down, groundcCheckLength, groundCheckLayerMask);
+
         if (hit.collider != null)
         {
             isGrounded = true;
@@ -56,9 +57,12 @@ public class buddycontroller : MonoBehaviour
         {
             isGrounded= false;  
         }
-        if (Input.GetButtonDown("jump")&& isGrounded )
+        if (Input.GetButtonDown("Jump") == true || isGrounded )
         {
-            rigidbody.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+            Debug.Log("JUMP!");
+            rigidbodys.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
         }
+        rigidbodys.linearVelocity = new Vector2(Inputx * movingSpeed, rigidbodys.linearVelocityY);
     }
+
 }
